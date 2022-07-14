@@ -1,0 +1,566 @@
+[main] INFO  datacleaning.main  - Reading data from CSV File
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameDonald
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameDonald
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the DOCONNEL
+  [main] INFO  datacleaning.main  - Valid Phone number 650.507.9833
+  [main] INFO  datacleaning.main  - Valid Hire date 21-06-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idSH_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2600
+  [main] INFO  datacleaning.main  - Valid manager id 124
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameDouglas
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameDouglas
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the DGRANT
+  [main] INFO  datacleaning.main  - Valid Phone number 650.507.9844
+  [main] INFO  datacleaning.main  - Valid Hire date 13-01-2008
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idSH_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2600
+  [main] INFO  datacleaning.main  - Valid manager id 124
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJennifer
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJennifer
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JWHALEN
+  [main] WARN  datacleaning.main  - Invalid Phone number515.123/4444
+  [main] INFO  datacleaning.main  - Valid Hire date 17-09-2003
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idAD_ASST
+  [main] INFO  datacleaning.main  - Valid Salary 4400
+  [main] INFO  datacleaning.main  - Valid manager id 101
+  [main] INFO  datacleaning.main  - Valid Department id 10
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameMichael
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameMichael
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the MHARTSTE
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.5555
+  [main] INFO  datacleaning.main  - Valid Hire date 17-02-2004
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idMK_MAN
+  [main] INFO  datacleaning.main  - Valid Salary 13000
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 20
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NamePat
+  [main] INFO  datacleaning.main  - Assigned Valid Last NamePat
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the PFAY
+  [main] INFO  datacleaning.main  - Valid Phone number 603.123.6666
+  [main] INFO  datacleaning.main  - Valid Hire date 17-08-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idMK_REP
+  [main] INFO  datacleaning.main  - Valid Salary 6000
+  [main] INFO  datacleaning.main  - Valid manager id 201
+  [main] INFO  datacleaning.main  - Valid Department id 20
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameSusan
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameSusan
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the SMAVRIS
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.7777
+  [main] INFO  datacleaning.main  - Valid Hire date 07-06-2002
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idHR_REP
+  [main] INFO  datacleaning.main  - Valid Salary 6500
+  [main] INFO  datacleaning.main  - Valid manager id 101
+  [main] INFO  datacleaning.main  - Valid Department id 40
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameHermann
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameHermann
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the HBAER
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.8888
+  [main] INFO  datacleaning.main  - Valid Hire date 07-06-2002
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idPR_REP
+  [main] INFO  datacleaning.main  - Valid Salary 10000
+  [main] INFO  datacleaning.main  - Valid manager id 101
+  [main] INFO  datacleaning.main  - Valid Department id 70
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameShelley
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameShelley
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the SHIGGINS
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.8080
+  [main] INFO  datacleaning.main  - Valid Hire date 07-06-2002
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idAC_MGR
+  [main] INFO  datacleaning.main  - Valid Salary 12008
+  [main] INFO  datacleaning.main  - Valid manager id 101
+  [main] INFO  datacleaning.main  - Valid Department id 110
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameWilliam
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameWilliam
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the WGIETZ
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.8181
+  [main] INFO  datacleaning.main  - Valid Hire date 07-06-2002
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idAC_ACCOUNT
+  [main] INFO  datacleaning.main  - Valid Salary 8300
+  [main] INFO  datacleaning.main  - Valid manager id 205
+  [main] INFO  datacleaning.main  - Valid Department id 110
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameSteven
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameSteven
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the SKING
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.4567
+  [main] INFO  datacleaning.main  - Valid Hire date 17-06-2003
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idAD_PRES
+  [main] INFO  datacleaning.main  - Valid Salary 24000
+  [main] WARN  datacleaning.main  - Invalid Manager id - 
+  [main] INFO  datacleaning.main  - Valid Department id 90
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameNeena
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameNeena
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the NKOCHHAR
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.4568
+  [main] INFO  datacleaning.main  - Valid Hire date 21-09-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idAD_VP
+  [main] INFO  datacleaning.main  - Valid Salary 17000
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 90
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameLex
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameLex
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the LDEHAAN
+  [main] INFO  datacleaning.main  - Valid Phone number 515.123.4569
+  [main] INFO  datacleaning.main  - Valid Hire date 13-01-2001
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idAD_VP
+  [main] INFO  datacleaning.main  - Valid Salary 17000
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 90
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameAlexander
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameAlexander
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the AHUNOLD
+  [main] INFO  datacleaning.main  - Valid Phone number 590.423.4567
+  [main] INFO  datacleaning.main  - Valid Hire date 03-01-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idIT_PROG
+  [main] INFO  datacleaning.main  - Valid Salary 9000
+  [main] INFO  datacleaning.main  - Valid manager id 102
+  [main] INFO  datacleaning.main  - Valid Department id 60
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameBruce
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameBruce
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the BERNST
+  [main] INFO  datacleaning.main  - Valid Phone number 590.423.4568
+  [main] INFO  datacleaning.main  - Valid Hire date 21-05-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idIT_PROG
+  [main] INFO  datacleaning.main  - Valid Salary 6000
+  [main] INFO  datacleaning.main  - Valid manager id 103
+  [main] INFO  datacleaning.main  - Valid Department id 60
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameDavid
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameDavid
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the DAUSTIN
+  [main] INFO  datacleaning.main  - Valid Phone number 590.423.4569
+  [main] INFO  datacleaning.main  - Valid Hire date 25-06-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idIT_PROG
+  [main] INFO  datacleaning.main  - Valid Salary 4800
+  [main] INFO  datacleaning.main  - Valid manager id 103
+  [main] INFO  datacleaning.main  - Valid Department id 60
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameValli
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameValli
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the VPATABAL
+  [main] INFO  datacleaning.main  - Valid Phone number 590.423.4560
+  [main] INFO  datacleaning.main  - Valid Hire date 05-02-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idIT_PROG
+  [main] INFO  datacleaning.main  - Valid Salary 4800
+  [main] INFO  datacleaning.main  - Valid manager id 103
+  [main] INFO  datacleaning.main  - Valid Department id 60
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameDiana
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameDiana
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the DLORENTZ
+  [main] INFO  datacleaning.main  - Valid Phone number 590.423.5567
+  [main] INFO  datacleaning.main  - Valid Hire date 07-02-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idIT_PROG
+  [main] INFO  datacleaning.main  - Valid Salary 4200
+  [main] INFO  datacleaning.main  - Valid manager id 103
+  [main] INFO  datacleaning.main  - Valid Department id 60
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameNancy
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameNancy
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the NGREENBE
+  [main] INFO  datacleaning.main  - Valid Phone number 515.124.4569
+  [main] INFO  datacleaning.main  - Valid Hire date 17-08-2002
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idFI_MGR
+  [main] INFO  datacleaning.main  - Valid Salary 12008
+  [main] INFO  datacleaning.main  - Valid manager id 101
+  [main] INFO  datacleaning.main  - Valid Department id 100
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameDaniel
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameDaniel
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the DFAVIET
+  [main] INFO  datacleaning.main  - Valid Phone number 515.124.4169
+  [main] INFO  datacleaning.main  - Valid Hire date 16-08-2002
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idFI_ACCOUNT
+  [main] INFO  datacleaning.main  - Valid Salary 9000
+  [main] INFO  datacleaning.main  - Valid manager id 108
+  [main] INFO  datacleaning.main  - Valid Department id 100
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJohn
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJohn
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JCHEN
+  [main] WARN  datacleaning.main  - Invalid Phone number515.124/4269
+  [main] INFO  datacleaning.main  - Valid Hire date 28-09-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idFI_ACCOUNT
+  [main] INFO  datacleaning.main  - Valid Salary 8200
+  [main] INFO  datacleaning.main  - Valid manager id 108
+  [main] INFO  datacleaning.main  - Valid Department id 100
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameIsmael
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameIsmael
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the ISCIARRA
+  [main] INFO  datacleaning.main  - Valid Phone number 515.124.4369
+  [main] INFO  datacleaning.main  - Valid Hire date 30-09-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idFI_ACCOUNT
+  [main] INFO  datacleaning.main  - Valid Salary 7700
+  [main] INFO  datacleaning.main  - Valid manager id 108
+  [main] INFO  datacleaning.main  - Valid Department id 100
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJose Manuel
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJose Manuel
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JMURMAN
+  [main] INFO  datacleaning.main  - Valid Phone number 515.124.4469
+  [main] INFO  datacleaning.main  - Valid Hire date 07-03-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idFI_ACCOUNT
+  [main] INFO  datacleaning.main  - Valid Salary 7800
+  [main] INFO  datacleaning.main  - Valid manager id 108
+  [main] INFO  datacleaning.main  - Valid Department id 100
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameLuis
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameLuis
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the LPOPP
+  [main] INFO  datacleaning.main  - Valid Phone number 515.124.4567
+  [main] INFO  datacleaning.main  - Valid Hire date 07-12-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idFI_ACCOUNT
+  [main] INFO  datacleaning.main  - Valid Salary 6900
+  [main] INFO  datacleaning.main  - Valid manager id 108
+  [main] INFO  datacleaning.main  - Valid Department id 100
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameDen
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameDen
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the DRAPHEAL
+  [main] INFO  datacleaning.main  - Valid Phone number 515.127.4561
+  [main] INFO  datacleaning.main  - Valid Hire date 07-12-2002
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idPU_MAN
+  [main] INFO  datacleaning.main  - Valid Salary 11000
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 30
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameAlexander
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameAlexander
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the AKHOO
+  [main] INFO  datacleaning.main  - Valid Phone number 515.127.4562
+  [main] INFO  datacleaning.main  - Valid Hire date 18-05-2003
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idPU_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 3100
+  [main] INFO  datacleaning.main  - Valid manager id 114
+  [main] INFO  datacleaning.main  - Valid Department id 30
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameShelli
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameShelli
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the SBAIDA
+  [main] INFO  datacleaning.main  - Valid Phone number 515.127.4563
+  [main] INFO  datacleaning.main  - Valid Hire date 24-12-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idPU_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2900
+  [main] INFO  datacleaning.main  - Valid manager id 114
+  [main] INFO  datacleaning.main  - Valid Department id 30
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameSigal
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameSigal
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the STOBIAS
+  [main] INFO  datacleaning.main  - Valid Phone number 515.127.4564
+  [main] INFO  datacleaning.main  - Valid Hire date 24-07-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idPU_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2800
+  [main] INFO  datacleaning.main  - Valid manager id 114
+  [main] INFO  datacleaning.main  - Valid Department id 30
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameGuy
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameGuy
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the GHIMURO
+  [main] INFO  datacleaning.main  - Valid Phone number 515.127.4565
+  [main] INFO  datacleaning.main  - Valid Hire date 15-11-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idPU_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2600
+  [main] INFO  datacleaning.main  - Valid manager id 114
+  [main] INFO  datacleaning.main  - Valid Department id 30
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameKaren
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameKaren
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the KCOLMENA
+  [main] INFO  datacleaning.main  - Valid Phone number 515.127.4566
+  [main] INFO  datacleaning.main  - Valid Hire date 10-08-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idPU_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2500
+  [main] INFO  datacleaning.main  - Valid manager id 114
+  [main] INFO  datacleaning.main  - Valid Department id 30
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameMatthew
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameMatthew
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the MWEISS
+  [main] INFO  datacleaning.main  - Valid Phone number 650.123.1234
+  [main] INFO  datacleaning.main  - Valid Hire date 18-07-2004
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_MAN
+  [main] INFO  datacleaning.main  - Valid Salary 8000
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameAdam
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameAdam
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the AFRIPP
+  [main] INFO  datacleaning.main  - Valid Phone number 650.123.2234
+  [main] INFO  datacleaning.main  - Valid Hire date 10-04-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_MAN
+  [main] INFO  datacleaning.main  - Valid Salary 8200
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NamePayam
+  [main] INFO  datacleaning.main  - Assigned Valid Last NamePayam
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the PKAUFLIN
+  [main] INFO  datacleaning.main  - Valid Phone number 650.123.3234
+  [main] INFO  datacleaning.main  - Valid Hire date 01-05-2003
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_MAN
+  [main] INFO  datacleaning.main  - Valid Salary 7900
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameShanta
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameShanta
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the SVOLLMAN
+  [main] INFO  datacleaning.main  - Valid Phone number 650.123.4234
+  [main] INFO  datacleaning.main  - Valid Hire date 10-10-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_MAN
+  [main] INFO  datacleaning.main  - Valid Salary 6500
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameKevin
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameKevin
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the KMOURGOS
+  [main] INFO  datacleaning.main  - Valid Phone number 650.123.5234
+  [main] INFO  datacleaning.main  - Valid Hire date 16-11-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_MAN
+  [main] INFO  datacleaning.main  - Valid Salary 5800
+  [main] INFO  datacleaning.main  - Valid manager id 100
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJulia
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJulia
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JNAYER
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.1214
+  [main] INFO  datacleaning.main  - Valid Hire date 16-07-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 3200
+  [main] INFO  datacleaning.main  - Valid manager id 120
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameIrene
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameIrene
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the IMIKKILI
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.1224
+  [main] INFO  datacleaning.main  - Valid Hire date 28-09-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2700
+  [main] INFO  datacleaning.main  - Valid manager id 120
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJames
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJames
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JLANDRY
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.1334
+  [main] INFO  datacleaning.main  - Valid Hire date 14-01-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2400
+  [main] INFO  datacleaning.main  - Valid manager id 120
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameSteven
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameSteven
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the SMARKLE1
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.1434
+  [main] INFO  datacleaning.main  - Valid Hire date 08-03-2008
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2200
+  [main] INFO  datacleaning.main  - Valid manager id 120
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameLaura
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameLaura
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the LBISSOT@
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.5234
+  [main] INFO  datacleaning.main  - Valid Hire date 20-08-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 3300
+  [main] INFO  datacleaning.main  - Valid manager id 121
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameMozhe
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameMozhe
+  [main] INFO  datacleaning.main  - Assigned with valid EmailMATKINSO@gmail.com
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.6234
+  [main] INFO  datacleaning.main  - Valid Hire date 30-10-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2800
+  [main] INFO  datacleaning.main  - Valid manager id 121
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJames
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJames
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JAMRLOW
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.7234
+  [main] INFO  datacleaning.main  - Valid Hire date 16-02-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2500
+  [main] INFO  datacleaning.main  - Valid manager id 121
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameTJ
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameTJ
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the TJOLSON
+  [main] INFO  datacleaning.main  - Valid Phone number 650.124.8234
+  [main] INFO  datacleaning.main  - Valid Hire date 10-04-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2100
+  [main] INFO  datacleaning.main  - Valid manager id 121
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJason
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJason
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JMALLIN
+  [main] INFO  datacleaning.main  - Valid Phone number 650.127.1934
+  [main] INFO  datacleaning.main  - Valid Hire date 14-06-2004
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 3300
+  [main] INFO  datacleaning.main  - Valid manager id 122
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameMichael
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameMichael
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the MROGERS
+  [main] INFO  datacleaning.main  - Valid Phone number 650.127.1834
+  [main] INFO  datacleaning.main  - Valid Hire date 26-08-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2900
+  [main] INFO  datacleaning.main  - Valid manager id 122
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameKi
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameKi
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the KGEE
+  [main] INFO  datacleaning.main  - Valid Phone number 650.127.1734
+  [main] INFO  datacleaning.main  - Valid Hire date 12-12-2007
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2400
+  [main] INFO  datacleaning.main  - Valid manager id 122
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameHazel
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameHazel
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the HPHILTAN
+  [main] INFO  datacleaning.main  - Valid Phone number 650.127.1634
+  [main] INFO  datacleaning.main  - Valid Hire date 06-02-2008
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2200
+  [main] INFO  datacleaning.main  - Valid manager id 122
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameRenske
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameRenske
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the RLADWIG
+  [main] INFO  datacleaning.main  - Valid Phone number 650.121.1234
+  [main] INFO  datacleaning.main  - Valid Hire date 14-07-2003
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 3600
+  [main] INFO  datacleaning.main  - Valid manager id 123
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameStephen
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameStephen
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the SSTILES
+  [main] INFO  datacleaning.main  - Valid Phone number 650.121.2034
+  [main] INFO  datacleaning.main  - Valid Hire date 26-10-2005
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 3200
+  [main] INFO  datacleaning.main  - Valid manager id 123
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJohn
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJohn
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JSEO
+  [main] INFO  datacleaning.main  - Valid Phone number 650.121.2019
+  [main] INFO  datacleaning.main  - Valid Hire date 12-02-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2700
+  [main] INFO  datacleaning.main  - Valid manager id 123
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First NameJoshua
+  [main] INFO  datacleaning.main  - Assigned Valid Last NameJoshua
+  [main] INFO  datacleaning.main  - Assigned with @gmail.com to the JPATEL
+  [main] INFO  datacleaning.main  - Valid Phone number 650.121.1834
+  [main] INFO  datacleaning.main  - Valid Hire date 06-04-2006
+  [main] INFO  datacleaning.main  - Valid PCT
+  [main] INFO  datacleaning.main  - valid job idST_CLERK
+  [main] INFO  datacleaning.main  - Valid Salary 2500
+  [main] INFO  datacleaning.main  - Valid manager id 123
+  [main] INFO  datacleaning.main  - Valid Department id 50
+  [main] INFO  datacleaning.main  - Assigned Valid Employee ID
+  [main] INFO  datacleaning.main  - Assigned Valid First Name - 
+  [main] INFO  datacleaning.main  - Assigned Valid Last Name - 
+  [main] WARN  datacleaning.main  - Email is empty
+  [main] WARN  datacleaning.main  - Invalid Phone number650.121.1AB
+  [main] INFO  datacleaning.main  - Valid Hire date 07-07-2016
+  [main] WARN  datacleaning.main  - Commission pct is empty 07-07-2016
+  [main] WARN  datacleaning.main  - Empty Job id
+  [main] WARN  datacleaning.main  - Empty salary 
+  [main] WARN  datacleaning.main  - Invalid Manager id
+  [main] WARN  datacleaning.main  - Invalid Department id 
+  [main] INFO  datacleaning.main  - Success fully Inserted data in to the employee and Employeefailed table
+  [main] INFO  datacleaning.main  - Generated Success Report
+  [main] INFO  datacleaning.main  - Generated Failed Report
+  

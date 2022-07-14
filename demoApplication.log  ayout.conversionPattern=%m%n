@@ -1,0 +1,3 @@
+[main] DEBUG datacleaning.main  - Hello this is a debug message
+  [main] INFO  datacleaning.main  - Hello this is an info message
+  
